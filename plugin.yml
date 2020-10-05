@@ -1,0 +1,8 @@
+name: Escape
+main: kiviuly.escape.Main
+version: 2.0
+author: Aver005
+commands:
+  escape:
+    usage: /escape HELP
+    aliases: [esc, es]
